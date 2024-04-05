@@ -75,8 +75,7 @@ p {
 }
 
 .section-three,
-.sec7,
-.sec9 {
+.sec7 {
   background-color: #eff2f6;
   height: 100%;
   width: 100%;
@@ -188,15 +187,13 @@ p {
   }
 }
 
-.card-link,
-.sec9 a {
+.card-link {
   color: black;
   border: 1px solid #f5ba4b;
   font-size: 10px;
 }
 
-.card-link:hover,
-.sec9 a:hover {
+.card-link:hover {
   color: #f5ba4b;
 }
 
